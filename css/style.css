@@ -6,3 +6,11 @@ body{
 h1{
     color:crimson;
 }
+
+.container{
+    margin: auto;
+    width: 80%;
+    background-color: darkgoldenrod;
+    color: white;
+    padding: 1em;
+}
